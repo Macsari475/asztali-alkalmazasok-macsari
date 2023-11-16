@@ -1,0 +1,15 @@
+H:\C#\2023_09_28\2023_09_28\bin\Debug\2023_09_28.exe.config
+H:\C#\2023_09_28\2023_09_28\bin\Debug\2023_09_28.exe
+H:\C#\2023_09_28\2023_09_28\bin\Debug\2023_09_28.pdb
+H:\C#\2023_09_28\2023_09_28\obj\Debug\2023_09_28.csproj.AssemblyReference.cache
+H:\C#\2023_09_28\2023_09_28\obj\Debug\2023_09_28.csproj.SuggestedBindingRedirects.cache
+H:\C#\2023_09_28\2023_09_28\obj\Debug\2023_09_28.csproj.CoreCompileInputs.cache
+H:\C#\2023_09_28\2023_09_28\obj\Debug\2023_09_28.exe
+H:\C#\2023_09_28\2023_09_28\obj\Debug\2023_09_28.pdb
+H:\4cucc asztalira\masodfoku\2023_09_28\bin\Debug\2023_09_28.exe.config
+H:\4cucc asztalira\masodfoku\2023_09_28\bin\Debug\2023_09_28.exe
+H:\4cucc asztalira\masodfoku\2023_09_28\bin\Debug\2023_09_28.pdb
+H:\4cucc asztalira\masodfoku\2023_09_28\obj\Debug\2023_09_28.csproj.AssemblyReference.cache
+H:\4cucc asztalira\masodfoku\2023_09_28\obj\Debug\2023_09_28.csproj.CoreCompileInputs.cache
+H:\4cucc asztalira\masodfoku\2023_09_28\obj\Debug\2023_09_28.exe
+H:\4cucc asztalira\masodfoku\2023_09_28\obj\Debug\2023_09_28.pdb
