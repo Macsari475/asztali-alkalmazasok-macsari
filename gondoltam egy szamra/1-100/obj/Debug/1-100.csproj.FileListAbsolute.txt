@@ -1,0 +1,7 @@
+H:\4cucc asztalira\1-100\1-100\bin\Debug\1-100.exe.config
+H:\4cucc asztalira\1-100\1-100\bin\Debug\1-100.exe
+H:\4cucc asztalira\1-100\1-100\bin\Debug\1-100.pdb
+H:\4cucc asztalira\1-100\1-100\obj\Debug\1-100.csproj.AssemblyReference.cache
+H:\4cucc asztalira\1-100\1-100\obj\Debug\1-100.csproj.CoreCompileInputs.cache
+H:\4cucc asztalira\1-100\1-100\obj\Debug\1-100.exe
+H:\4cucc asztalira\1-100\1-100\obj\Debug\1-100.pdb
