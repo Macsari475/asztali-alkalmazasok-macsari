@@ -1,0 +1,7 @@
+H:\asztali\matekosaszta\matekorai\matekorai\bin\Debug\matekorai.exe.config
+H:\asztali\matekosaszta\matekorai\matekorai\bin\Debug\matekorai.exe
+H:\asztali\matekosaszta\matekorai\matekorai\bin\Debug\matekorai.pdb
+H:\asztali\matekosaszta\matekorai\matekorai\obj\Debug\matekorai.csproj.AssemblyReference.cache
+H:\asztali\matekosaszta\matekorai\matekorai\obj\Debug\matekorai.csproj.CoreCompileInputs.cache
+H:\asztali\matekosaszta\matekorai\matekorai\obj\Debug\matekorai.exe
+H:\asztali\matekosaszta\matekorai\matekorai\obj\Debug\matekorai.pdb
