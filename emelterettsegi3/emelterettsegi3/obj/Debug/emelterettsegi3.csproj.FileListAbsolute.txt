@@ -1,0 +1,7 @@
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\bin\Debug\emelterettsegi3.exe.config
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\bin\Debug\emelterettsegi3.exe
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\bin\Debug\emelterettsegi3.pdb
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\obj\Debug\emelterettsegi3.csproj.AssemblyReference.cache
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\obj\Debug\emelterettsegi3.csproj.CoreCompileInputs.cache
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\obj\Debug\emelterettsegi3.exe
+H:\asztali\epitmenyado\erettsegiemelt3\emelterettsegi3\emelterettsegi3\obj\Debug\emelterettsegi3.pdb
