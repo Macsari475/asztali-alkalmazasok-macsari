@@ -1,0 +1,7 @@
+H:\4cucc asztalira\szamologep\szamologep\bin\Debug\szamologep.exe.config
+H:\4cucc asztalira\szamologep\szamologep\bin\Debug\szamologep.exe
+H:\4cucc asztalira\szamologep\szamologep\bin\Debug\szamologep.pdb
+H:\4cucc asztalira\szamologep\szamologep\obj\Debug\szamologep.csproj.AssemblyReference.cache
+H:\4cucc asztalira\szamologep\szamologep\obj\Debug\szamologep.csproj.CoreCompileInputs.cache
+H:\4cucc asztalira\szamologep\szamologep\obj\Debug\szamologep.exe
+H:\4cucc asztalira\szamologep\szamologep\obj\Debug\szamologep.pdb
