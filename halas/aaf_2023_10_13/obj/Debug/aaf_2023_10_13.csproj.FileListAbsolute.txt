@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\bin\Debug\aaf_2023_10_13.exe.config
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\bin\Debug\aaf_2023_10_13.exe
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\bin\Debug\aaf_2023_10_13.pdb
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.exe
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.pdb
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\bin\Debug\aaf_2023_10_13.exe.config
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\bin\Debug\aaf_2023_10_13.exe
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\bin\Debug\aaf_2023_10_13.pdb
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.csproj.AssemblyReference.cache
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.csproj.CoreCompileInputs.cache
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.exe
+C:\Users\maclas871\Desktop\aaf_2023_10_13\aaf_2023_10_13\obj\Debug\aaf_2023_10_13.pdb
