@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\bin\Debug\aaf_2023_11_08_dobokocka.exe.config
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\bin\Debug\aaf_2023_11_08_dobokocka.exe
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\bin\Debug\aaf_2023_11_08_dobokocka.pdb
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\obj\Debug\aaf_2023_11_08_dobokocka.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\obj\Debug\aaf_2023_11_08_dobokocka.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\obj\Debug\aaf_2023_11_08_dobokocka.exe
+C:\Users\Martin\Documents\2023-2024 tanév\Asztali alkalmazások\aaf_2023_11_08_dobokocka\aaf_2023_11_08_dobokocka\obj\Debug\aaf_2023_11_08_dobokocka.pdb
